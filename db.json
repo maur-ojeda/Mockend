@@ -1,4 +1,6 @@
-[
+{
+  "users": [
+    
 		"001": {
 			"nationalId": "15662884-0",
 			"name": "Carolina gracia",
@@ -10,3 +12,4 @@
 			"token": "00000000002"
 		}
 ]
+}
