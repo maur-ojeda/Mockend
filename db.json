@@ -1,15 +1,23 @@
 {
-  "users": [
-    
-		"001": {
+	"posts": [{
+		"id": 1,
+		"title": "hello"
+	}],
+
+	"users": [
+
+		{
 			"nationalId": "15662884-0",
 			"name": "Carolina gracia",
 			"token": "00000000001"
 		},
-		"002": {
+		{
 			"nationalId": "13473632-1",
 			"name": "mauricio ojeda",
 			"token": "00000000002"
 		}
-]
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
