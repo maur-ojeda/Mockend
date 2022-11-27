@@ -1,17 +1,16 @@
 {
 	"Users": {
-	
+
 		"001": {
 			"nationalId": "15662884-0",
-			"name": "Carolina gracia"
+			"name": "Carolina gracia",
 			"token": "00000000001"
-			},
+		},
 		"002": {
-			"id": "001",
 			"nationalId": "13473632-1",
-			"name": "mauricio ojeda"
+			"name": "mauricio ojeda",
 			"token": "00000000002"
-			}	
-	
+		}
+
 	}
 }
